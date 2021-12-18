@@ -4,8 +4,8 @@ import pyttsx3 as pyVoice
 engine = pyVoice.init()
 engine.setProperty('rate', 125)
 
-openai.organization = "org-P6nav9Naj9J0AHIg3Bv9aU9t"
-openai.api_key = "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"
+openai.organization = "org"
+openai.api_key = "key"
 promptElements = ["The following is a conversation with an AI assistant. The assistant is helpful, creative, clever, polite, and very friendly.\n", "\nHuman: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?", "", "\nHuman: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?"]
 prevRes = ""
 
