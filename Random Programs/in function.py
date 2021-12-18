@@ -1,4 +1,4 @@
-string = raw_input()
+"""string = raw_input()
 sub = raw_input()
 lenSub = len(sub)
 d = 0
@@ -9,3 +9,4 @@ while lenSub <= len(string):
     d += 1
     lenSub += 1
 print sub, "is not in", string
+"""
