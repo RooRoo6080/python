@@ -7,8 +7,8 @@ import time
 
 sr = speech_recognition.Recognizer()
 
-openai.organization = "org-P6nav9Naj9J0AHIg3Bv9aU9t"
-openai.api_key = "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"
+openai.organization = "org"
+openai.api_key = "key"
 
 promptElements = [
             "The following is a conversation with an AI assistant. He provides factual information. The assistant is helpful, creative, clever, polite, and very friendly.\n",
