@@ -4,9 +4,9 @@ This is a voice assistant powered by the OpenAI GPT-3 models.
 - If it doesn't recognize your input, an error sound will play
 
 ***
--- This will not work if you have not signed up for OpenAI access --
+-- This will not work if you do not have OpenAI access --
 
-Sign up for the waitlist here: https://share.hsforms.com/1Lfc7WtPLRk2ppXhPjcYY-A4sk30
+Sign up for the waitlist here: [OpenAI GPT-3](https://openai.com/api/)
 
 ***
 Setting this up requires multiple Python libraries/APIs.
